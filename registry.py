@@ -8,7 +8,8 @@
 
 import requests
 import ast
-from requests.packages.urllib3.exceptions import InsecureRequestWarning
+# from requests.packages.
+from urllib3.exceptions import InsecureRequestWarning
 import json
 import pprint
 import base64
